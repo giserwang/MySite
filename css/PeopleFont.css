@@ -1,0 +1,17 @@
+.peoplefont {
+	font-family: "华文楷体";
+	font-size: 22px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	text-decoration: none;
+	text-align: justify;
+	text-indent: 2pc;
+	vertical-align: top;
+	letter-spacing: normal;
+	word-spacing: normal;
+	color: #333333;
+	white-space: normal;
+}
